@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "IssueDateCredential": {
+        "@id": "https://raw.githubusercontent.com/0xPolygonID/issuer-node/main/docs/examples/json-ld/exampleDate.json-ld#HireDateCredential",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/adhvaitaganesh/MedSchema/blob/main/README.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "issueDate": {
+            "@id": "vocab:issueDate",
+            "@type": "xsd:dateTime"
+          }
+        }
+      }
+    }
+  ]
+}
