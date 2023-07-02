@@ -106,9 +106,13 @@
         "type": "object",
         "required": [
           "id",
-          "role",
-          "hireDate",
-          "salary"
+          "drug",
+          "issueDate",
+          "strength",
+          "ammount",
+          "refills",
+          "route",
+          "frequency"
         ],
         "properties": {
           "id": {
@@ -116,21 +120,28 @@
             "type": "string",
             "format": "uri"
           },
-          "role": {
+          "drug": {
             "type": "string"
           },
-          "codingExperience": {
-            "type": "boolean"
-          },
-          "hireDate": {
+          "issueDate": {
             "type": "string",
             "format": "date-time"
           },
-          "birthday": {
+
+          "strength": {
             "type": "integer"
           },
-          "salary": {
-            "type": "number"
+          "ammount": {
+            "type": "integer"
+          },
+          "refills": {
+            "type": "integer"
+          },
+          "route": {
+            "type": "string"
+          },
+          "frequency": {
+            "type": "string"
           }
         }
       }
