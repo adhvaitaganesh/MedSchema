@@ -41,7 +41,7 @@
             "frequency": {
               "@id": "vocab:frequency",
               "@type": "xsd:string"
-            },
+            }
           }
         }
       }
