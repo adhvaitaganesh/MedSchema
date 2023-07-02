@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "DrugCredential": {
-          "@id": "https://raw.githubusercontent.com/0xPolygonID/issuer-node/main/docs/examples/json-ld/exampleString.json-ld#RoleCredential",
+          "@id": "https://raw.githubusercontent.com/adhvaitaganesh/MedSchema/main/json-ld/eDrug.json-l#DrugCredential",
           "@context": {
             "@version": 1.1,
             "@protected": true,

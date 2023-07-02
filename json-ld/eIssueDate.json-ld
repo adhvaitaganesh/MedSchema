@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "IssueDateCredential": {
-        "@id": "https://raw.githubusercontent.com/0xPolygonID/issuer-node/main/docs/examples/json-ld/exampleDate.json-ld#HireDateCredential",
+        "@id": "https://raw.githubusercontent.com/adhvaitaganesh/MedSchema/main/json-ld/eIssueDate.json-ld#issuanceDate",
         "@context": {
           "@version": 1.1,
           "@protected": true,

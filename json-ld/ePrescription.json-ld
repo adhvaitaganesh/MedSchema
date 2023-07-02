@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "PrescriptionCredential": {
-          "@id": "https://raw.githubusercontent.com/0xPolygonID/issuer-node/main/docs/examples/json-ld/exampleEmployee.json-ld#EmployeeCredential",
+          "@id": "https://raw.githubusercontent.com/adhvaitaganesh/MedSchema/main/json-ld/ePrescription.json-ld#PrescriptionCredential",
           "@context": {
             "@version": 1.1,
             "@protected": true,

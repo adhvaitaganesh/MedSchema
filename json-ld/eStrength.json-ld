@@ -6,7 +6,7 @@
         "id": "@id",
         "type": "@type",
         "StrengthCredential": {
-          "@id": "https://raw.githubusercontent.com/0xPolygonID/issuer-node/main/docs/examples/json-ld/exampleInteger.json-ld#BirthdayCredential",
+          "@id": "https://raw.githubusercontent.com/adhvaitaganesh/MedSchema/main/json-ld/eStrength.json-ld#StrengthCredential",
           "@context": {
             "@version": 1.1,
             "@protected": true,
